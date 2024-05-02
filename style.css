@@ -1,0 +1,30 @@
+.h1{
+    
+}
+
+.avatar{
+    border-radius: 20rem;
+    height: 10rem;
+    width: 10rem;
+}
+
+.caption{
+    background-color: lightblue;
+    font-size: 1.5rem;
+}
+.pendidikan{
+    font-size: 1.2rem;
+    background-color: paleturquoise;
+}
+.pengalaman{
+    font-size: 1.2rem;
+    background-color: lightskyblue;
+}
+.skill{
+    font-size: 1.2rem;
+    background-color: powderblue;
+}
+.bahasa{
+    font-size: 1.2rem;
+    background-color: skyblue;
+}
